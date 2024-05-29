@@ -1,14 +1,14 @@
 # Kamal
   <h2>Skill show case projects </h2>
-    <ui>
-        <l>AI Machine Learning </l>
-        <l>System Design</l>
-        <l>Scala</l>
-        <l>Python</l>
-        <l>Java </l>
-        <l>Spring</l>
-        <l>k8s/docker</l>
-      </ui>
+    <ul>
+        <li>AI Machine Learning </li>
+        <li>System Design</li>
+        <li>Scala</li>
+        <li>Python</li>
+        <li>Java </li>
+        <li>Spring</li>
+        <li>k8s/docker</li>
+      </ul>
       
       
 
