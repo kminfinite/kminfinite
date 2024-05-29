@@ -1,7 +1,13 @@
 # Kamal
-  Skill show case projects 
+  <h2>Skill show case projects </h2>
     <ui>
-      <l></l>
+        <l>AI Machine Learning </l>
+        <l>System Design</l>
+        <l>Scala</l>
+        <l>Python</l>
+        <l>Java </l>
+        <l>Spring</l>
+        <l>k8s/docker</l>
       </ui>
       
       
